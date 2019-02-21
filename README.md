@@ -1,5 +1,6 @@
 # Guess
 Guess Game
+LEVI(@2/21/2019) {Sprint 2/Backlog Screenshots Tested and Uploaded to Blackboard. TO DO Sprint 3 will be created}
 
 LEVI(@ 2.18.2019) {Sprint 1/Backlog Screenshots uploaded, TO DO Sprint 2 will be created in cards and started}
 
